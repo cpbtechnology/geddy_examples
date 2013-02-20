@@ -1,0 +1,13 @@
+{
+  "name": "frontend-to-backend-model-subscription",
+  "version": "0.0.1",
+  "author": "",
+  "dependencies": {
+    "swig": "*",
+    "socket.io": "*"
+  },
+  "devDependencies": {},
+  "engines": {
+    "node": "0.8.x"
+  }
+}

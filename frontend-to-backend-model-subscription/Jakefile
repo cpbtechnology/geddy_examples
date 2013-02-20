@@ -1,0 +1,6 @@
+
+var t = new jake.TestTask('frontend-to-backend-model-subscription', function () {
+  this.testFiles.include('test/*.js');
+  this.testFiles.include('test/**/*.js');
+});
+
